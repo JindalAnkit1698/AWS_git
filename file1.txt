@@ -1,2 +1,2 @@
 this is the firts line from AWS linux
-second line from WS linux
+second line from AWS linux
