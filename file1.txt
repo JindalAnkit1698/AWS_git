@@ -16,3 +16,9 @@ amend 3rd
 adding secoond by ubuntu
 want to test commoit amend
 check last time
+
+file after amend 
+
+file before amend
+
+file right
