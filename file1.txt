@@ -15,6 +15,7 @@ amend again
 amend 3rd
 adding secoond by ubuntu
 want to test commoit amend
+<<<<<<< HEAD
 check last time
 
 file after amend 
@@ -22,3 +23,5 @@ file after amend
 file before amend
 
 file right
+=======
+>>>>>>> dbae7c3c4a7a42bb69b57df517797ed3807b297c
