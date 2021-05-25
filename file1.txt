@@ -9,6 +9,7 @@ bin by ubuntu
 adding modified changes by amws
 adding garbage 2 by ubtu
 adding first by AWS
-adding secoond by ubuntu
-file ammend ubuntu
+adding second by ubuntu
+file ammend 1 ubuntu
 amend again
+amend 3rd
