@@ -6,5 +6,9 @@ Sorry lst commit was fourth one
 this is fourth line from Mumbai
 Adding garbage by AWS image
 bin by ubuntu
+adding modified changes by amws
 adding garbage 2 by ubtu
-adding secoond by aws
+adding first by AWS
+adding secoond by ubuntu
+file ammend ubuntu
+amend again
